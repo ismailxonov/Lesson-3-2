@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 165px;
+    margin-right: 165px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 58px;
+}
+.text{
+    display: flex;
+    color: grey;
+    gap: 32px;
+    align-items: center;
+}
+.nav2{
+    gap: 32px;
+}
+.but1{
+    width: 105px;
+    height: 40px;
+    border-radius: 28px;
+    background: rgb(43, 208, 208);
+    color: white;
+    border: 0;
+}
+.nav2 a{
+    text-decoration: none;
+    color: grey;
+    margin-right: 32px;
+}
+.text a{
+    text-decoration: none;
+    color: grey;
+}
+.nav1{
+    display: flex;
+    gap: 45px;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 140px;
+}
+.text2 h1{
+   color: rgb(52, 49, 61);
+}
+.ptext{
+    color: grey;
+    padding-top: 5px;
+}
+.but2{
+    width: 197px;
+height: 56px;
+border-radius: 28px;
+background: rgb(43, 208, 208);
+color: white;
+border: 0;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+margin-top: 38px;
+}
+.img{
+    padding-left: 28%;
+    padding-bottom: 78px;
+}
+
+.container2{
+    background: brown;
+    margin-top: 100px;
+    height: 270px;
+}
+.inp{
+    display: flex;
+    position: relative;
+    margin-left: 156px;
+    margin-right: 156px;
+    background-color: rgb(50, 40, 80);
+    align-items: center;
+    border-radius: 10px;
+    top: -50px;
+    height: 100px;
+    padding-left: 65px;
+    padding-right: 65px;
+}
+.but3{
+    margin-left: 24px;
+    width: 180px;
+height: 60px;
+border-radius: 10px;
+background: rgb(43, 208, 208);
+border: 0;
+}
+input{
+    height: 60px;
+    border: 0;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-left: 32px;
+    width: 769px;
+    font-size: 20px;
+font-weight: 500;
+line-height: 36px;
+color: grey;
+}
+.boss{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.but4{
+    margin-top: 13px;
+    width: 197px;
+height: 60.48px;
+border-radius: 28px;
+
+background: rgb(43, 208, 208);
+border: 0;
+margin-left: 621px;
+margin-right: 622px;
+color: white;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+}
+
+
+header{
+    background: rgb(35, 33, 39);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 170px;
+    padding-right: 165px;
+    height: 150.2px;
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+.asd{
+    margin-left: 50px;
+}
+.ads{
+    margin-left: 48px;
+}
+.img2{
+    margin-top: 10px;
+}
+
